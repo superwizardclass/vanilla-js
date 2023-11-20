@@ -1,0 +1,15 @@
+{
+    "name": "form",
+    "version": "1.0.0",
+    "description": "Form validation with js and html",
+    "main": "main.js",
+    "scripts": {
+        "tailwind": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "tailwindcss": "^3.3.5"
+    }
+}
